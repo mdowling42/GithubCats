@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+#container{
+    background-color: lightgray;
+    height: 250px;
+    width: 900px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#container2{
+    background-color: lightblue;
+    height: 250px;
+    width: 900px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+#container3{
+    background-color: dodgerblue;
+    height: 250px;
+    width: 900px;
+    margin: 0 auto;
+}
+img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    margin: 20px;
+}
+.cats{
+    display: flex;
+}
+.cat{
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+    margin-right: 80px;
+}
+.cat1{
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+}
